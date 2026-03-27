@@ -8,20 +8,7 @@ This project was built as a practice assignment to apply React with TypeScript a
 
 ## Project Structure
 
-club-landing-page/
-├── src/
-│   ├── components/
-│   │   ├── Navbar.tsx
-│   │   ├── Hero.tsx
-│   │   ├── Card.tsx          ← Reusable Component (used 3 times)
-│   │   └── Footer.tsx
-│   ├── App.tsx
-│   ├── main.tsx
-│   └── index.css
-├── tailwind.config.js
-├── vite.config.ts
-└── package.json
-
+club-landing-page/ │ ├── src/ │ ├── components/ │ │ ├── Navbar.tsx │ │ ├── Hero.tsx │ │ ├── Card.tsx (Reusable Component — used 3 times) │ │ └── Footer.tsx │ │ │ ├── App.tsx │ ├── main.tsx │ └── index.css │ ├── tailwind.config.js ├── vite.config.ts └── package.json
 
 
 ## Components Used
