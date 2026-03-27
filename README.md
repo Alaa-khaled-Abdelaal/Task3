@@ -37,7 +37,7 @@ club-landing-page/
   - Private Community
 - **Footer** — Footer section with links and copyright
 
-##Technologies Used
+## Technologies Used
 
 React + TypeScript
 Tailwind CSS
