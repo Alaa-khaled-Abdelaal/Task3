@@ -6,9 +6,26 @@ A clean and modern landing page for **Echo Club** — a creative community club 
 
 This project was built as a practice assignment to apply React with TypeScript and Tailwind CSS.
 
-## Project Structure
+##  Project Structure
 
-club-landing-page/ │ ├── src/ │ ├── components/ │ │ ├── Navbar.tsx │ │ ├── Hero.tsx │ │ ├── Card.tsx (Reusable Component — used 3 times) │ │ └── Footer.tsx │ │ │ ├── App.tsx │ ├── main.tsx │ └── index.css │ ├── tailwind.config.js ├── vite.config.ts └── package.json
+```
+club-landing-page/
+│
+├── src/
+│   ├── components/
+│   │   ├── Navbar.tsx
+│   │   ├── Hero.tsx
+│   │   ├── Card.tsx   (Reusable Component — used 3 times)
+│   │   └── Footer.tsx
+│   │
+│   ├── App.tsx
+│   ├── main.tsx
+│   └── index.css
+│
+├── tailwind.config.js
+├── vite.config.ts
+└── package.json
+```
 
 
 ## Components Used
@@ -19,6 +36,12 @@ club-landing-page/ │ ├── src/ │ ├── components/ │ │ ├─�
   - Creative Challenges
   - Private Community
 - **Footer** — Footer section with links and copyright
+
+##Technologies Used
+
+React + TypeScript
+Tailwind CSS
+Vite
 
 ## How to Run
 
@@ -37,10 +60,6 @@ npm run dev
 
 Open http://localhost:5173 to see the project.
 
-Technologies Used
 
-React + TypeScript
-Tailwind CSS
-Vite
 
 
