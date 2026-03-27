@@ -55,5 +55,4 @@ React + TypeScript
 Tailwind CSS
 Vite
 
-
-<image-card alt="Echo Club Landing Page" src="./screenshot1.png" ></image-card>
+![Project Screenshot](screenshot.png)
