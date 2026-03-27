@@ -1,5 +1,5 @@
 # Echo Club Landing Page
-
+![Project Screenshot](screenshot.png)
 ## Project Idea
 A clean and modern landing page for **Echo Club** — a creative community club where people connect, share ideas, collaborate, and participate in events and creative challenges.
 
@@ -55,4 +55,4 @@ React + TypeScript
 Tailwind CSS
 Vite
 
-![Project Screenshot](screenshot.png)
+
